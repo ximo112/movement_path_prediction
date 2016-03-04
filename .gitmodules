@@ -1,0 +1,12 @@
+[submodule "map_difference"]
+	path = map_difference
+	url = https://github.com/ximo112/map_difference.git
+[submodule "xmeans"]
+	path = xmeans
+	url = https://github.com/ximo112/xmeans.git
+[submodule "association"]
+	path = association
+	url = https://github.com/ximo112/association.git
+[submodule "path_prediction"]
+	path = path_prediction
+	url = https://github.com/ximo112/path_prediction.git
